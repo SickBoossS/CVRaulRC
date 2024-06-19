@@ -61,8 +61,7 @@ body {
     .descripción img {justify-content: end;}
 
 
-.card {background-image: linear-gradient(to right top, #8dacc1, #8addf4);
-    display: flex;
+.card {display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;}
