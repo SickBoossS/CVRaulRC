@@ -20,7 +20,7 @@ body {
 
 .características h2 {
     text-align: center;
-    font: normal normal medium 40px/47px Raleway;
+    font: normal normal medium 40px/47px;
     letter-spacing: 0px;
     color: #000000;
     opacity: 1;
@@ -58,7 +58,7 @@ body {
     width: 1280px;
     height: 348px;
     background-image: linear-gradient(to right top, #c4d3dd, #8addf4);}
-    .descripción img {justify-content: end;}
+  
 
 
 .card {display: flex;
@@ -75,7 +75,7 @@ body {
     flex-direction: column; 
         flex-grow: 1;}
 
-footer {position: fixed; bottom: 0; width: 100%;
+footer {position: relative; bottom: 0; width: 100%;
     background-color: #1cb9e4; 
     background-image: linear-gradient(to right top, #1cb9e4, #c4d3dd);}
     .contenedor2 {
